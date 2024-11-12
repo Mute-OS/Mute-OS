@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mute-OS
-- 👀 I’m interested in Linux Operating sytems
+- 👀 I’m interested in Linux Operating systems
 - 🌱 I’m currently learning Linux operating sytem
 - 💞️ I’m looking to collaborate on Opensuse<3
 - 📫 How to reach me This is not possible right now because I am too young.
